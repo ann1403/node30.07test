@@ -4,18 +4,20 @@ const path = require('path');
 const cars = require('./cars.json');
 const server = http.createServer((req, res) => {
     if (req.url === '/') {
-        for (let j = 0; j > cars.cars.length; j++) {
-            console.log(cars.cars.length);
-            res.writeHead(200, { 'Content-Type': 'text/html' });
-            res.end(`<div style="display:flex; flex-direction:column;><h1 style="color:blue;">We sales cars! Список машин:</h1>
-                    <a href="/${j}">${cars.cars[j].model} - ${cars.cars[j].price}</a></div>`);
+        res.writeHead(200, { 'Content-Type': 'text/html' });
+        for (let j = 0; j < cars.cars.length; j++) {
+            var vuvod;
+            vuvod += `<div style="display:flex; flex-direction:column"><a href="/${j}"> ${cars.cars[j].model} - ${cars.cars[j].price}</a></div>`;
+            console.log(cars.cars[j].model);
         }
+        res.end(`<div style="display:flex; flex-direction:column">
+        <h1 style="color:blue">Our cars:</h1></div>` + vuvod);
     } else if (req.url !== '/') {
-        for (let i = 0; i > cars.cars.length; i++) {
+        for (let i = 0; i < cars.cars.length; i++) {
             if (req.url === `/${i}`) {
                 res.writeHead(200, { 'Content-Type': 'text/html' });
                 res.end(`<div style="display:flex; flex-direction:column">
-                <div style="display:flex; flex-direction:row">
+                <div style="display:flex; flex-direction:row; justify-content: space-around">
                 <p>${cars.cars[i].model}</p>
                 <p>${cars.cars[i].price}</p></div>
                 <img src="${cars.cars[i].photo}" alt="Car">
