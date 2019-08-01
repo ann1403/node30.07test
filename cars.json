@@ -1,0 +1,28 @@
+{
+    "cars": [{
+        "model": "TeslaX",
+        "photo": "https://www.cstatic-images.com/car-pictures/xl/usc60tss011c021001.png",
+        "price": "34565876",
+        "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nobis modi qui, assumenda quaerat commodi nihil error aliquam cumque mollitia alias ullam laborum illum ut nisi corrupti. Rem aliquid nulla cumque voluptates voluptatibus magni aspernatur inventore cum necessitatibus blanditiis, adipisci sapiente. Sapiente magnam natus architecto consequuntur, cumque quaerat corporis. Earum at sint magnam libero? Ipsam eos veniam dolore laudantium quo vero autem temporibus unde, inventore officia sapiente blanditiis obcaecati, voluptas optio alias in similique tenetur? Repudiandae tenetur cum ab quae officiis, perspiciatis nulla soluta eos optio, a sit alias? Libero sapiente officiis quasi ratione aliquam ducimus odio dicta pariatur culpa quisquam."
+    }, {
+        "model": "BMW5",
+        "photo": "https://www.autocar.co.uk/sites/autocar.co.uk/files/styles/gallery_slide/public/bmw-5-series-1_2.jpg?itok=l9SsUkzV",
+        "price": "34565876",
+        "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nobis modi qui, assumenda quaerat commodi nihil error aliquam cumque mollitia alias ullam laborum illum ut nisi corrupti. Rem aliquid nulla cumque voluptates voluptatibus magni aspernatur inventore cum necessitatibus blanditiis, adipisci sapiente. Sapiente magnam natus architecto consequuntur, cumque quaerat corporis. Earum at sint magnam libero? Ipsam eos veniam dolore laudantium quo vero autem temporibus unde, inventore officia sapiente blanditiis obcaecati, voluptas optio alias in similique tenetur? Repudiandae tenetur cum ab quae officiis, perspiciatis nulla soluta eos optio, a sit alias? Libero sapiente officiis quasi ratione aliquam ducimus odio dicta pariatur culpa quisquam."
+    }, {
+        "model": "Mazda 6",
+        "photo": "https://i.infocar.ua/i/12/4326/1400x936.jpg",
+        "price": "34565876",
+        "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nobis modi qui, assumenda quaerat commodi nihil error aliquam cumque mollitia alias ullam laborum illum ut nisi corrupti. Rem aliquid nulla cumque voluptates voluptatibus magni aspernatur inventore cum necessitatibus blanditiis, adipisci sapiente. Sapiente magnam natus architecto consequuntur, cumque quaerat corporis. Earum at sint magnam libero? Ipsam eos veniam dolore laudantium quo vero autem temporibus unde, inventore officia sapiente blanditiis obcaecati, voluptas optio alias in similique tenetur? Repudiandae tenetur cum ab quae officiis, perspiciatis nulla soluta eos optio, a sit alias? Libero sapiente officiis quasi ratione aliquam ducimus odio dicta pariatur culpa quisquam."
+    }, {
+        "model": "Honda Civic5d",
+        "photo": "https://i.infocar.ua/i/12/4326/1400x936.jpg",
+        "price": "34565876",
+        "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nobis modi qui, assumenda quaerat commodi nihil error aliquam cumque mollitia alias ullam laborum illum ut nisi corrupti. Rem aliquid nulla cumque voluptates voluptatibus magni aspernatur inventore cum necessitatibus blanditiis, adipisci sapiente. Sapiente magnam natus architecto consequuntur, cumque quaerat corporis. Earum at sint magnam libero? Ipsam eos veniam dolore laudantium quo vero autem temporibus unde, inventore officia sapiente blanditiis obcaecati, voluptas optio alias in similique tenetur? Repudiandae tenetur cum ab quae officiis, perspiciatis nulla soluta eos optio, a sit alias? Libero sapiente officiis quasi ratione aliquam ducimus odio dicta pariatur culpa quisquam."
+    }, {
+        "model": "Ford Fusion",
+        "photo": "https://www.greatplainsford.com/wp-content/uploads/2019/05/cq5dam.web_.1280.12801.jpeg",
+        "price": "34565876",
+        "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nobis modi qui, assumenda quaerat commodi nihil error aliquam cumque mollitia alias ullam laborum illum ut nisi corrupti. Rem aliquid nulla cumque voluptates voluptatibus magni aspernatur inventore cum necessitatibus blanditiis, adipisci sapiente. Sapiente magnam natus architecto consequuntur, cumque quaerat corporis. Earum at sint magnam libero? Ipsam eos veniam dolore laudantium quo vero autem temporibus unde, inventore officia sapiente blanditiis obcaecati, voluptas optio alias in similique tenetur? Repudiandae tenetur cum ab quae officiis, perspiciatis nulla soluta eos optio, a sit alias? Libero sapiente officiis quasi ratione aliquam ducimus odio dicta pariatur culpa quisquam."
+    }]
+}
